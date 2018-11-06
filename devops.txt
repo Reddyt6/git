@@ -1,0 +1,4 @@
+technology: devops
+Place: canada
+area: toronto
+
