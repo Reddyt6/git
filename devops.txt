@@ -1,4 +1,4 @@
 technology: devops
 Place: canada
-area: toronto
-
+area: kitchener
+car: range rover
