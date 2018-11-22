@@ -1,3 +1,2 @@
-doing fetch and merge and created the file in the github,and now trying to make a conflict
 
-now doing in github name: anksh
+now doing in github name: Ankush reddy
