@@ -1,1 +1,1 @@
-doing fetch and merge and created the file in the github
+doing fetch and merge and created the file in the github,and now trying to make a conflict
