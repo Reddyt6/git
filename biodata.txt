@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 name: ankush, this is a new file created in slave, sending to github master.
+=======
+
+name: ankush 
+name: ankush
+
+
