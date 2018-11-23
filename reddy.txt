@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is reddy
 =======
 thi si reddy
+>>>>>>> origin/master
+=======
+iHgjhgjk:
 >>>>>>> origin/master
